@@ -12,7 +12,7 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao changg cứ đi nhầm đường
     Lạc vào tim minh lẻ loi ',
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thương<3',
     btnIntro: 'ỏ,dangyeuu qua:3',
     title: 'Phải chăng Mingg đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Lam nguoi yeuu minh hong ?',
@@ -24,7 +24,7 @@ const CONFIG = {
     mess: 'Mingg biết mà 🥰. Yêu Changg nhiều nhiều 😘😘',
     messDesc: 'Sáng mai 6h anh kêu dậy nhé công chúa.',
     btnAccept: 'Da vangg<33',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com', //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
 
