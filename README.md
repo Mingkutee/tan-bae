@@ -8,7 +8,7 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Changg à:33',
+    introTitle: 'Changg à:3',
     introDesc: `Trái đất vốn lạ thường
     Mà sao changg cứ đi nhầm đường
     Lạc vào tim minh lẻ loi ',
