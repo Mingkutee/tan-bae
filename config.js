@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'hong đâu,liuliu :>',
     question:'Trên thế giới hơn 7 tỉ người mà sao chang lại yêu minh <3',
     btnReply: 'Gửi cho minhh <3',
-    reply: 'yêu thì yêu thoiiiii <33',
+    reply: 'yêu thì yêu thoiiiii <333',
     mess: 'Minh biết mà 🥰. Yêu chang nhiều',
     messDesc: 'sáng mai 6h gọi anh dậy nhé congchua <33',
     btnAccept: 'davang <33',
