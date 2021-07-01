@@ -19,11 +19,11 @@ const CONFIG = {
     btnYes: 'Daa co <33',
     btnNo: 'Không,liuliu:3',
     question:'Trên thế giới hơn 7 tỉ người mà sao chang lại yêu Mingg <3',
-    btnReply: 'Gửi cho Ming <3',
+    btnReply: 'Gửi cho Ming <3333',
     reply: 'Yêu thì yêu hong yêu thì yêuu <33333333',
     mess: 'Mingg biết mà 🥰. Yêu Changg nhiều nhiều 😘😘',
     messDesc: 'Sáng mai 6h anh kêu dậy nhé công chúa.',
-    btnAccept: 'Da vangg<33',
+    btnAccept: 'Da vangg<33333',
     messLink: 'http://fb.com', //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
