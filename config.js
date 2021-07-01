@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao chang cứ đi nhầm đường
     Lạc vào tim minhh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'dethuong zaa',
+    btnIntro: 'ỏ,dangiuu daaa',
     title: 'Phải chăng chang đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Làm người yêu minh honggg',
     btnYes: 'Da cooooo:3',
